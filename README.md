@@ -37,7 +37,11 @@ Just type
 ```
 
 ## Example of result
-
+```
+# ./guess.sh /synced/tensor-lib/f/ /synced/tst/moto21.jpg
+moto (score = 0.88331)
+car (score = 0.11669)
+```
 
 
 ##Remarks 

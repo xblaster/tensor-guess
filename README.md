@@ -26,15 +26,19 @@ Just type
 ```
  ./train.sh [any_path]/my_own_classifier
 ``` 
-And it will do anything for your
+And it will do anything for you !
 
 ##Guess process
 
 Just type
 ```
  ./guess.sh [any_path]/my_own_classifier /yourfile.jpg
- ./guessDir.sh [any_path]/my_own_classifier /yourDirectory
+ [NOT READY ! Need some script readjustement] ./guessDir.sh [any_path]/my_own_classifier /yourDirectory
 ```
+
+## Example of result
+
+
 
 ##Remarks 
 

@@ -38,7 +38,7 @@ Just type
 
 ## Example of result
 ```
-# ./guess.sh /synced/tensor-lib/f/ /synced/tst/moto21.jpg
+# ./guess.sh /synced/tensor-lib/moto-classifier/ /synced/imagesToTest/moto21.jpg
 moto (score = 0.88331)
 car (score = 0.11669)
 ```

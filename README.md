@@ -9,7 +9,7 @@ this project is just an helper with docker images based on tutorial from https:/
 
 ##usage 
 
-You just need to make a working directory with a directory "data" with all your images
+You just need to make a "classifier" directory with a directory "data" inside it with all your images
 For example
 ```
  [any_path]/my_own_classifier/
@@ -18,7 +18,8 @@ For example
  [any_path]/my_own_classifier/data/moto
  [any_path]/my_own_classifier/data/bus
 ```
- and then put your image on it.
+ and then put your image on it. 
+ This "classifier" directory will have your samples but also trained classifier after execution of "train.sh". 
 
 ##Train process
  

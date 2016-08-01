@@ -34,7 +34,6 @@ And it will do anything for you !
 Just type
 ```
  ./guess.sh [any_path]/my_own_classifier /yourfile.jpg
- [NOT READY ! Need some script readjustement] ./guessDir.sh [any_path]/my_own_classifier /yourDirectory
 ```
 
 ## Example of result

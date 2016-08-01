@@ -31,9 +31,14 @@ And it will do anything for you !
 
 ##Guess process
 
-Just type
+Just type for a single guess
 ```
  ./guess.sh [any_path]/my_own_classifier /yourfile.jpg
+```
+
+To guess an entire directory
+```
+./guessDir.sh [any_path]/classifier [any_path]/srcDir [any_path]/destDir
 ```
 
 ## Example of result

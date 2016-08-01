@@ -1,4 +1,4 @@
-FROM gcr.io/tensorflow/tensorflow:latest-devel
+FROM tensorflow/tensorflow:0.9.0-devel
 
 MAINTAINER Jerome WAX "xblaster@lo2k.net"
 

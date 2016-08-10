@@ -1,1 +1,1 @@
-docker build -t tf .
+docker build -t xblaster/tensor-guess .

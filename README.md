@@ -1,3 +1,5 @@
+[![](https://images.microbadger.com/badges/image/xblaster/tensor-guess.svg)](https://microbadger.com/images/xblaster/tensor-guess "Get your own image badge on microbadger.com")
+
 # tensor-guess
 
 this project is just an helper with docker images based on tutorial from https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/index.html

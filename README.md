@@ -54,3 +54,4 @@ car (score = 0.11669)
 ##Remarks 
 
 Use absolute file path for classifier and images because for the moment my script do not support relative path (volume mounting)
+You can use `pwd` as a workaround
